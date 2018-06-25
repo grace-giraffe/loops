@@ -1,7 +1,13 @@
 // display the numbers between 1 and 20
-
+console.log("Display the numbers from 1 to 20");
+for(var i=1; i <=20; i++) {
+    console.log(i);
+}
 // display the even numbers from 1 to 20
-
+console.log("Display the even numbers from 1 to 20");
+for(var i=2; i <=20; i/2);
+console.log(i);
+if(2,4,6,8,10,12,14,16,18,20);
 //display the odd numbers from 1 to 20
 
 //display the multiples of 5 up to 100
