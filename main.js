@@ -5,8 +5,9 @@ for(var i=1; i <=20; i++) {
 }
 // display the even numbers from 1 to 20
 console.log("Display the even numbers from 1 to 20");
-for(var i=1; i <=20; i/2);
+for(var i=1; i <=20; i/2); {
 console.log(i);
+}
 //display the odd numbers from 1 to 20
 
 //display the multiples of 5 up to 100
